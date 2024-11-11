@@ -75,6 +75,7 @@ section.visible {
 .navbar_links:hover {
     color: #77CDFF;
     transition: all 0.5s ease;
+    text-shadow: #333 1px 1px 0;
 }
 
 
